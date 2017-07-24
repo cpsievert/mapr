@@ -5,6 +5,7 @@ Authors@R: Carson Sievert <cpsievert1@gmail.com> [aut, cre]
 Description: An online tutorial of interactive mapping in R
 Depends: R (>= 3.4.1)
 Imports:
+  learnr,
   plotly,
   tidyverse,
   leaflet,
