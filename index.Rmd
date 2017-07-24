@@ -1,0 +1,13 @@
+---
+title: "An online tutorial of interactive mapping in R"
+output: 
+  html_document:
+    keep_md: true
+---
+
+Done in conjunction with <http://nycdatascience.com/>
+
+Sections:
+
+* [Set up your working environment](setup)
+* 
