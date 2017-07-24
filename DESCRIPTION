@@ -1,0 +1,27 @@
+Package: mapr
+Title: An online tutorial of interactive mapping in R
+Version: 0.0.0.9000
+Authors@R: Carson Sievert <cpsievert1@gmail.com> [aut, cre]
+Description: An online tutorial of interactive mapping in R
+Depends: R (>= 3.4.1)
+Imports:
+  plotly,
+  tidyverse,
+  leaflet,
+  crosstalk,
+  sf,
+  knitr,
+  rmarkdown,
+  gapminder,
+  shiny,
+  GGally,
+  ggmap,
+  ggthemes
+Remotes:
+  rstudio/leaflet#346,
+  hadley/ggplot2,
+  ropensci/plotly,
+  hrbrmstr/albersusa
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
